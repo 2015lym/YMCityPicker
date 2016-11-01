@@ -10,7 +10,7 @@
 
     2.增加了判定，如果用户选择不允许获取地理位置，则弹窗提示，跳转到系统设置中让用户修改权限
 
-    3.导入方法简单，参考此DEMO，并在项目的info.plist中添加
+    3.导入方法简单，参考此DEMO，新建项目需要在项目中的info.plist中添加
 
     Privacy - Location Always Usage Description
 
